@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Debug WebView</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter an URL</string>
+    <string name="button_send">Go</string>
+    <string name="title_activity_web_page">Web Page</string>
+</resources>
